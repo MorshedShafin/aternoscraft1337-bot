@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "aternoscraft1337-bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "aternoscraft1337-bot",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "aternoscraft1337"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "too slow!",
+        "you're wasting my time!"
       ]
     },
     "chat-log": true,
